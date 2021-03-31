@@ -4,6 +4,9 @@ Bem vindo a uma breve demonstração do meu conhecimento!
 
 Para rodar a aplicação basta baixar, instalar as dependencias e startar a aplicação 
 
+Link da documentação e Testes Integrados swagger - https://cadastro-build.herokuapp.com/swagger-ui/
+
+
 *OBS.: a depender da IDE usada, faz-se nescessário a instalação do plugin do lombock
 
 *PARA O ECLIPSE - https://dicasdejava.com.br/como-configurar-o-lombok-no-eclipse/
